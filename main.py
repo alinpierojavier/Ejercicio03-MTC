@@ -14,3 +14,7 @@ for i in range(n+1):
 for i in range(n+1):
  espacio=n-i
  print(" "*espacio+"*"*i)
+
+for i in range(n+1):
+ espacio=n-i
+ print(" "*espacio+"* "*i)
